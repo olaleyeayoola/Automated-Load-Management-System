@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "DSM",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
